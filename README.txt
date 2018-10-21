@@ -2,8 +2,13 @@ Hello everyone. This program sets a simple node server accessing a MongoDB.
 
 It assume you have MongoDB installed and understand a little of npm packages.
 
-npm install to install dependencies
-nodemon app.js to start the server on 3000 port
+execute: 
+
+npm install 
+-> to install dependencies
+
+nodemon app.js
+-> to start the server on 3000 port
 
 this is my first server set-up so i'm publishing this just for record.
 
